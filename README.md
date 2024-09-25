@@ -1,3 +1,5 @@
+![Repository Banner](https://github.com/mayuthombre/banner-test/raw/main/docs/banner.png)
+
 # agl-windows-vm
 
 ## Terraform 0.12+ - Create an AGL Windows VM
